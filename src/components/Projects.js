@@ -63,10 +63,17 @@ export const Projects = () => {
                     <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
                     <h2>Here is how I created a very successful business and brand at the age of 14.</h2>
                     </div>
-                    <h3>
-                    <img src={sonic4}></img>
                     
+                    <h3 id="wrapper">
+                    
+      <img id="blurred" src={sonic4} alt="" />
+      <img id="cover" src={sonic4} alt="" />
+   
+                    
+                    
+             
                     </h3>
+               
                     
                     <p> It started with a very simple problem, paired with a slightly immoral solution. I was getting frustrated that these "bots" were getting in the way of me getting coins in my favorite game at the time, Madden Mobile. So, I thought; if you can't beat them, join them!<br>
                       </br>
@@ -78,9 +85,10 @@ export const Projects = () => {
                      
                      
                       </p>
-                    <span>
-                    <img src={sonic1}></img>
+                      <span id="wrapper">
                     
+                    <img id="blurred" src={sonic1} alt="" />
+                    <img id="cover" src={sonic1} alt="" />
                     </span>
                       
   
@@ -89,8 +97,10 @@ export const Projects = () => {
                       <br></br>
                       <br></br>
                       </p>
-                      <h3>
-                    <img src={sonic2}></img>
+                      <h3 id="wrapper">
+                    
+      <img id="blurred" src={sonic2} alt="" />
+      <img id="cover" src={sonic2} alt="" />
                     
                     </h3>
                     <p>
@@ -102,14 +112,16 @@ export const Projects = () => {
 
                       </p>
                       
-                    <span>
-                    <img src={sonic3}></img>
+                      <span id="wrapper">
+                    
+                    <img id="blurred" src={sonic3} alt="" />
+                    <img id="cover" src={sonic3} alt="" />
                     
                     </span>
                      
                     <p>
-                      After making a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were in need to buy better players, and create a stronger team for themselves.
-                      I gained over 15,000 followers and became the most trusted coin seller, with hundreds of customers weekly. 
+                      After making a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
+                      I gained over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
                       
                       <br></br><br></br>This domination continued to reign for two years, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. They would continuously attempt
                       to fix this, but I would go into the app files to revert whatever "fix" they hoped could stop me.
@@ -139,7 +151,7 @@ export const Projects = () => {
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <h2>Backend</h2>
-                      <p>I created a fully function compiler from scratch, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
+                      <p>I created a fully functional compiler from scratch, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
                         The code generated was then ran through an operating system, 
                         and if the program passed all four stages of compilation, the OS would output the correct result.<br></br><br></br>
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
