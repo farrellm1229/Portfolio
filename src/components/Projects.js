@@ -140,12 +140,11 @@ export const Projects = () => {
                       <p>Here is a sleep analsyis web application I designed and created for a client. They wanted to be able to connect their Oura Ring with their account, which is a popular sleep tracking device. <br></br><br></br>The data was then analyzed through a machine learning algorithm utilizing the python library, "pandas", and an overall sleep quality report was given to the user.
                         
                         </p>
-                        <img id="blurred" src={sleep} alt="" />
-                    <img id="cover" src={sleep} alt="" />
+                        <img src = {sleep}></img>
                     
                         <p>
                           <br></br>
-                      <h2><strong><b>What did I use to create this?</b></strong></h2>
+                      <h2>What did I use to create this?</h2>
                         <br></br>
                        I utilized <u><strong>PostgreSQL</strong></u> to store the user and account information securely, <u><strong>FLASK</strong></u> to create and navigate app routes, and <u><strong>Bootstrap</strong></u> to create the visually pleasing aesthetic I insisted on having!
                     </p>
