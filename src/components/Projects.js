@@ -120,8 +120,8 @@ export const Projects = () => {
                     </span>
                      
                     <p>
-                      After making a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
-                      I gained over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
+                      After establishing a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
+                      I amassed over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
                       
                       <br></br><br></br>This domination continued to reign for two years, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. They would continuously attempt
                       to fix this, but I would go into the app files to revert whatever "fix" they hoped could stop me.
