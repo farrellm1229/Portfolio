@@ -140,7 +140,9 @@ export const Projects = () => {
                       <p>Here is a sleep analsyis web application I designed and created for a client. They wanted to be able to connect their Oura Ring with their account, which is a popular sleep tracking device. <br></br><br></br>The data was then analyzed through a machine learning algorithm utilizing the python library, "pandas", and an overall sleep quality report was given to the user.
                         
                         </p>
-                      <img src={sleep}></img>
+                        <img id="blurred" src={sleep} alt="" />
+                    <img id="cover" src={sleep} alt="" />
+                    
                         <p>
                           <br></br>
                       <h2>What did I use to create this?</h2>
