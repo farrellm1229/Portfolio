@@ -151,10 +151,11 @@ export const Projects = () => {
                       
                       <br></br><br></br>My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. 
                       <br></br>
-                      <center>
+                      <center id ="wrapper">
                       <video playsInline loop disablePictureInPicture autoPlay muted controls >
                         
-                    <source src={sonic5} type="video/mp4"/>
+                    <source id="blurred" src={sonic5} type="video/mp4"/>
+                    <source id = "cover" src={sonic5} type="video/mp4"/>
                   </video>
                   </center>
                     </p>
