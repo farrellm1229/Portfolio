@@ -75,7 +75,7 @@ export const Projects = () => {
                     </h3>
                
                     
-                    <p> In order to have the best team in my favorite game at the time, Madden Mobile, 
+                    <p> In order to have the best experience in my favorite game at the time, Madden Mobile, 
                       you needed a lot of coins (in-app currency). This became frustrating when people started writing code 
                       to gain coins at a highly accelerated rate. So, I thought; if you can't beat them, join them!<br>
                       </br>
