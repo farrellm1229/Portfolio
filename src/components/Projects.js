@@ -75,7 +75,9 @@ export const Projects = () => {
                     </h3>
                
                     
-                    <p> It started with a very simple problem, paired with a slightly immoral solution. I was getting frustrated that these "bots" were getting in the way of me getting coins in my favorite game at the time, Madden Mobile. So, I thought; if you can't beat them, join them!<br>
+                    <p> In order to have the best team in my favorite game at the time, Madden Mobile, 
+                      you needed a lot of coins (in-app currency). This became frustrating when people started writing code 
+                      to gain coins at a highly accelerated rate. So, I thought; if you can't beat them, join them!<br>
                       </br>
                       <br></br>
                       The game had an auction house where players were sold for a certain number of coins, correlating with their value and skillset. Sometimes, people who didn't care much about the game would post a valuable player for very little, 
