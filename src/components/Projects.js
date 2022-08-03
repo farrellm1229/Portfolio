@@ -9,8 +9,7 @@ import sonic4 from "../assets/img/sonic4.jpg";
 import sonic3 from "../assets/img/sonic1.jpg";
 import sonic6 from "../assets/img/sonic6.jpg";
 
-
-import sonic5 from "../assets/img/sonic5.mov";
+import sonic5 from './Videos.sonic5.mp4'
 import sleep from "../assets/img/sleepAnalysisWebsite.png";
 import compiler1 from "../assets/img/compiler1.png";
 import compiler2 from "../assets/img/compiler2.png";
@@ -144,11 +143,11 @@ export const Projects = () => {
                       <br></br><br></br>My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. 
                       
                     </p>
-                    
-                    <img id="blurred" src={sonic5} alt="" />
-                    <img id="cover" src={sonic5} alt="" />
-                   
-                    
+                    <span id="wrapper">
+                    <video width="750" height="500" controls >
+                    <source src={sonic5} type="video/mp4"/>
+                  </video>
+                    </span>
                       
                     </Tab.Pane>
                     
