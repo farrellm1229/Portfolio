@@ -143,7 +143,8 @@ export const Projects = () => {
                       
                     </p>
                     
-                    
+                    <img id="blurred" src={sonic5} alt="" />
+                    <img id="cover" src={sonic5} alt="" />
                    
                     
                       
