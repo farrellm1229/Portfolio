@@ -149,7 +149,7 @@ export const Projects = () => {
                       <br></br><br></br>The developers of the game, "EA Sports", were aware of the thousands of "bots" ruining the experience for those without, and did everything in their power to attempt to stop them. 
                       However, even their best efforts were no match to the relentless community I had formed. I would do whatever it took to revert their attempts, including going into the app files and altering the code.
                       
-                      <br></br><br></br><br></br>My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. 
+                      <br></br><br></br><br></br>My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game finally figured out how to remove this ability for "bots" to function permanently. 
                       <br></br>
                       <br></br>
 
