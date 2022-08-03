@@ -152,7 +152,7 @@ export const Projects = () => {
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <h2>Backend</h2>
-                      <p>I created a fully functional compiler from scratch, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
+                      <p>I created a fully functional compiler from scratch in Java, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
                         The code generated was then ran through an operating system, 
                         and if the program passed all four stages of compilation, the OS would output the correct result.<br></br><br></br>
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
