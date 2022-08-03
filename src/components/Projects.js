@@ -136,7 +136,7 @@ export const Projects = () => {
                      
                      
                     <p>
-                      After establishing a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
+                      After establishing a name for myself via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
                       I amassed over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
                       </p>
                       <span id="wrapper">
