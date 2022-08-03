@@ -150,12 +150,13 @@ export const Projects = () => {
                       However, even their best efforts were no match to the relentless community I had formed. I would do whatever it took to revert their attempts, including going into the app files and altering the code.
                       
                       <br></br><br></br>My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. 
-                      
-                    </p>
-                    
-                    <video width="750" height="500" controls >
+                      <br></br>
+                      <video width="750" height="500" controls >
                     <source src={sonic5} type="video/mp4"/>
                   </video>
+                    </p>
+                    
+                    
                       
                     </Tab.Pane>
                     
