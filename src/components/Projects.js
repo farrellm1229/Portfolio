@@ -7,6 +7,8 @@ import sonic1 from "../assets/img/sonic3.jpg";
 import sonic2 from "../assets/img/sonic2.jpg";
 import sonic4 from "../assets/img/sonic4.jpg";
 import sonic3 from "../assets/img/sonic1.jpg";
+import sonic6 from "../assets/img/sonic6.jpg";
+
 
 import sonic5 from "../assets/img/sonic5.mov";
 import sleep from "../assets/img/sleepAnalysisWebsite.png";
@@ -80,12 +82,7 @@ export const Projects = () => {
                       to gain coins at an exceptional rate. So, I thought; if you can't beat them, join them!<br>
                       </br>
                       <br></br>
-                      The game had an auction house where players were sold for a certain number of coins, correlating with their value and skillset. Sometimes, people who didn't care much about the game would post a valuable player for very little, 
-                      and whoever was the first to click "Buy Now" made a massive profit.
-                      <br></br>
-                      <br></br>
-                     
-                     
+                      
                       </p>
                       <span id="wrapper">
                     
@@ -95,16 +92,32 @@ export const Projects = () => {
                       
   
                      <p>
+                      The game had an auction house where players were sold for a certain number of coins, correlating with their value and skillset. Sometimes, people who didn't care much about the game would post a valuable player for very little, 
+                      and whoever was the first to click "Buy Now" made a massive profit.
+                      <br></br>
+                      <br></br>
+                     
+                     
+                      </p>
+                      
+                      <h3 id="wrapper">
+                    
+                    <img id="blurred" src={sonic2} alt="" />
+                    <img id="cover" src={sonic2} alt="" />
+                                  
+                                  </h3>
+                     <p>
                       After researching how these people were able to buy these players at low prices instantaneously, I bought my first iPad and began jailbreaking and writing a script/code for my bot. This is where my empire began.
                       <br></br>
                       <br></br>
                       </p>
-                      <h3 id="wrapper">
+                      <span id="wrapper">
                     
-      <img id="blurred" src={sonic2} alt="" />
-      <img id="cover" src={sonic2} alt="" />
+                    <img id="blurred" src={sonic3} alt="" />
+                    <img id="cover" src={sonic3} alt="" />
                     
-                    </h3>
+                    </span>
+                      
                     <p>
 
                       I created a username within the Madden Mobile app under the name "Sonic", representing the elusive speed and efficiency of my program. After months of writing and improving upon my code, it was evident there was no one out there who could compete with me.
@@ -113,13 +126,13 @@ export const Projects = () => {
                       <br></br>
 
                       </p>
-                      
-                      <span id="wrapper">
+                      <h3 id="wrapper">
                     
-                    <img id="blurred" src={sonic3} alt="" />
-                    <img id="cover" src={sonic3} alt="" />
+                    <img id="blurred" src={sonic6} alt="" />
+                    <img id="cover" src={sonic6} alt="" />
                     
-                    </span>
+                    </h3>
+                     
                      
                     <p>
                       After establishing a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
