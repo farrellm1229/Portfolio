@@ -82,9 +82,8 @@ img2 {
   z-index: -4;
 
 }
-img3 {
-  width: 1%;
-  
+img3 {float: center;
+  position: absolute;
 
 }
 
