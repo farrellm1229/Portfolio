@@ -138,12 +138,14 @@ export const Projects = () => {
                     <p>
                       After establishing a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
                       I amassed over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
+                      </p>
                       <span id="wrapper">
                     
                     <img id="blurred" src={sonic7} alt="" />
                     <img id="cover" src={sonic7} alt="" />
                     
                     </span>
+                    <p>
                       <br></br><br></br>The developers of the game, "EA Sports", were aware of the thousands of "bots" ruining the experience for those without, and did everything in their power to attempt to stop them. 
                       However, even their best efforts were no match to the relentless community I had formed. I would do whatever it took to revert their attempts, including going into the app files and altering the code.
                       
