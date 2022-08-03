@@ -77,7 +77,7 @@ export const Projects = () => {
                     
                     <p> In order to have the best experience in my favorite game at the time, Madden Mobile, 
                       you needed a lot of coins (in-app currency). This became frustrating when people started writing code 
-                      to gain coins at a highly accelerated rate. So, I thought; if you can't beat them, join them!<br>
+                      to gain coins at an exceptional rate. So, I thought; if you can't beat them, join them!<br>
                       </br>
                       <br></br>
                       The game had an auction house where players were sold for a certain number of coins, correlating with their value and skillset. Sometimes, people who didn't care much about the game would post a valuable player for very little, 
@@ -125,8 +125,8 @@ export const Projects = () => {
                       After establishing a name for myself in the community via Instagram and other social media platforms, I began selling my in-game coins to people who were seeking to buy better players, and create a stronger team for themselves.
                       I amassed over 15,000 followers and became the most trusted coin seller in the community, with hundreds of customers weekly. 
                       
-                      <br></br><br></br>This domination continued to reign for two years, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. They would continuously attempt
-                      to fix this, but I would go into the app files to revert whatever "fix" they hoped could stop me.
+                      <br></br><br></br>The developers of the game, "EA Sports", were aware of the thousands of "bots" ruining the experience for those without, and did everything in their power to attempt to stop them. 
+                      However, even their best efforts were no match to the relentless community I had formed. I would do whatever it took to revert their attempts, including going into the app files and altering the code. My domination continued to reign for two years, with multiple devices running my programs 24/7, until the developers of the game, "EA Sports", finally figured out how to remove this ability for "bots" to function. 
                       
                     </p>
                     
