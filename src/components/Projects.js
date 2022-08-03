@@ -9,7 +9,7 @@ import sonic4 from "../assets/img/sonic4.jpg";
 import sonic3 from "../assets/img/sonic1.jpg";
 import sonic6 from "../assets/img/sonic6.jpg";
 
-import sonic5 from './Videos.sonic5.mp4'
+import sonic5 from '../../public/Videos/sonic5.mp4'
 import sleep from "../assets/img/sleepAnalysisWebsite.png";
 import compiler1 from "../assets/img/compiler1.png";
 import compiler2 from "../assets/img/compiler2.png";
