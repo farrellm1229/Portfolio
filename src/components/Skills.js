@@ -60,8 +60,6 @@ export const Skills = () => {
                                 <h5>Brand Creation And Vision</h5>
                             </div>
                         </Carousel>
-                        <br></br>
-                        <p><a href={resume}>Resume</a></p>
                     </div>
                 </div>
             </div>

@@ -5,6 +5,8 @@ import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/email.jpg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
 import navIcon4 from '../assets/img/resumeSymbol.png';
+import resume from "../assets/img/Resume.pdf";
+
 
 import { HashLink } from 'react-router-hash-link';
 import {
@@ -54,7 +56,7 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/matt-farrell-b70aa0205/" target="_blank"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.instagram.com/matt_farrell_/" target="_blank"><img src={navIcon3} alt="" /></a>
-                <a href="mailto:matt.farrell1@outlook.com"><img src={navIcon2} alt="" /></a>
+                <a href={resume} target="_blank"><img src={navIcon4} alt="" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
