@@ -58,6 +58,7 @@ export const Skills = () => {
                                 <h5>Brand Creation And Vision</h5>
                             </div>
                         </Carousel>
+                        <h5>testing text!</h5>
                     </div>
                 </div>
             </div>
