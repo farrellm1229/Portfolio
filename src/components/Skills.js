@@ -5,6 +5,8 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
 import arrow2 from "../assets/img/arrow2.svg";
+import resume from "../assets/img/Resume.pdf";
+
 import colorSharp from "../assets/img/color-sharp.png"
 
 export const Skills = () => {
@@ -58,7 +60,8 @@ export const Skills = () => {
                                 <h5>Brand Creation And Vision</h5>
                             </div>
                         </Carousel>
-                        <h5>testing text!</h5>
+                        <br></br>
+                        <p><a href={resume}>Resume</a></p>
                     </div>
                 </div>
             </div>
