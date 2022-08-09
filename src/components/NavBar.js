@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/email.jpg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import navIcon4 from '../assets/img/resPic.png';
+import navIcon4 from '../assets/img/resume2.jpg';
 
 import { HashLink } from 'react-router-hash-link';
 import {
