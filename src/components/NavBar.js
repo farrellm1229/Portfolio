@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/email.jpg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import navIcon4 from '../assets/img/resumeUpdate.svg';
+import navIcon4 from '../assets/img/download.svg';
 import resume from "../assets/img/Resume.pdf";
 
 
