@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/email.jpg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import navIcon4 from '../assets/img/resumeSymbol.png';
+import navIcon4 from '../assets/img/resumeSymbol.svg';
 import resume from "../assets/img/Resume.pdf";
 
 
@@ -55,8 +55,8 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a href={resume} target="_blank"><img src={navIcon4} alt="" /></a>
-                <a href="https://www.linkedin.com/in/matt-farrell-b70aa0205/" target="_blank"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.instagram.com/matt_farrell_/" target="_blank"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.linkedin.com/in/matt-farrell-b70aa0205/" target="_blank"><img src={navIcon1} alt="" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
