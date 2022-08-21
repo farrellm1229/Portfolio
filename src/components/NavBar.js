@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from '../assets/img/logo.svg';
-import navIcon1 from '../assets/img/nav-icon1.svg';
+import navIcon1 from '../assets/img/nav-icon1.png';
 import navIcon2 from '../assets/img/email.jpg';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import navIcon3 from '../assets/img/nav-icon3.png';
 import navIcon4 from '../assets/img/resumeSymbol.png';
 import resume from "../assets/img/Resume.pdf";
 
