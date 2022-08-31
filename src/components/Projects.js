@@ -188,7 +188,7 @@ export const Projects = () => {
                       <h2>Backend</h2>
                       <p>I created a fully functional compiler from scratch in Java, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
 
-                        <br></br><br></br> The Classy Compiler was designed to go through four stages: <u><strong>Lexical Analysis, Parsing, Semantic Analysis, and Code Generation.</strong></u>
+                        <br></br><br></br> The Classy Compiler was designed to go through four stages: <u><strong>Lexical Analysis, Parsing, Semantic Analysis, and Code Generation</strong></u>. 
                         Below is a video demonstration.
                         </p>
                       <center>
@@ -217,7 +217,7 @@ export const Projects = () => {
 </p>
                     <p>
 
-This is the Operating System we used to run the code generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
+This is the Operating System I used to run the code generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
 <br></br>
 
 
