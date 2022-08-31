@@ -67,7 +67,7 @@ export const Projects = () => {
                   
                     <Tab.Pane eventKey="first">
                     <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
-                    <h2>Here is how I created a very successful business and brand at the age of 14.</h2>
+                    <h2>Five-Figure Business At 14 Years Old</h2>
                     </div>
                     
                     <h3 id="wrapper">
