@@ -203,6 +203,7 @@ export const Projects = () => {
 Above is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
 <br></br>
                       <br></br>
+                      </p>
                       <center>
                       <video playsInline loop disablePictureInPicture autoPlay muted controls >
                         
@@ -210,7 +211,8 @@ Above is the Operating System the generated code was ran through, and below is a
                   </video>
                   </center>
 
-
+<p>
+  
                          </p>
                       
                     </Tab.Pane>
