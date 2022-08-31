@@ -217,7 +217,7 @@ export const Projects = () => {
 </p>
                     <p>
 
-This is the Operating System I used to run the code generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
+This is the Operating System I used to run the code generated. If the input program passed all four stages with 0 errors, the OS would return the correct result!
 <br></br>
 
 
