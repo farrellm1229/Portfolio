@@ -72,8 +72,8 @@ export const Projects = () => {
                     
                     <h3 id="wrapper">
                     
-      <img id="blurred" src={sonic4} alt="" />
-      <img id="cover" src={sonic4} alt="" />
+      <img align = "right" id="blurred" src={sonic4} alt="" />
+      <img align = "right" id="cover" src={sonic4} alt="" />
    
                     
                     
