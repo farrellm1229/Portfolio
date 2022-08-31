@@ -194,7 +194,7 @@ export const Projects = () => {
 <br></br>
                       After passing the Lexical Analysis, Parsing, and Semantic Analysis stages (as well as creating Abstract and Concrete Syntax Trees), the code is finally generated!
                       
-                      <img class = "center" src={compiler6}></img>
+                      <img class = "centerPic1" src={compiler6}></img>
                       
 <br></br><br></br>
                      

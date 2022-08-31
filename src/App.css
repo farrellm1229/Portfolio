@@ -333,6 +333,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 80%;
   display: block;
  }
+ .centerPic1{
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+  display: block;
+ }
+ .centerPic2{
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+  display: block;
+ }
 /************ Skills Css ************/
 .skill {
   padding: 0 0 50px 0;
