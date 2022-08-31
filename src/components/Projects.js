@@ -155,7 +155,7 @@ export const Projects = () => {
                       <br></br>
 
                       <center>
-                      <video playsInline loop disablePictureInPicture autoPlay muted controls >
+                      <video class="center" playsInline loop disablePictureInPicture autoPlay muted controls >
                         
                     <source src={sonic5} type="video/mp4"/>
                   </video>
