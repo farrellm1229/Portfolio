@@ -335,13 +335,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
  }
  .centerPic1{
   margin: 0 auto;
-  width: 400%;
+  width: 100%;
   height: auto;
   display: block;
  }
  .centerPic2{
   margin: 0 auto;
-  width: 400px;
+  width: 800px;
   height: auto;
   display: block;
  }

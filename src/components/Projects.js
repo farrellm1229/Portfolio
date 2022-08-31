@@ -185,9 +185,7 @@ export const Projects = () => {
                     <Tab.Pane eventKey="third">
                       <h2>Backend</h2>
                       <p>I created a fully functional compiler from scratch in Java, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
-                        The code generated was then ran through an operating system, 
-                        and if the program passed all four stages, the OS would output the correct result.<br></br><br></br>
-                        </p>
+                      </p>
                         <span id="wrapper">
                     
       <img id="blurred" src={compiler9} alt="" />
@@ -195,6 +193,9 @@ export const Projects = () => {
              
                     </span>
                     <p>
+                        The code generated was then ran through an operating system, 
+                        and if the program passed all four stages, the OS would output the correct result.<br></br><br></br>
+                        
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
                         </p>
                         <h3 id="wrapper">
@@ -207,7 +208,7 @@ export const Projects = () => {
 <br></br>
                       After passing the Lexical Analysis, Parsing, and Semantic Analysis stages (as well as creating Abstract and Concrete Syntax Trees), the code is finally generated!
                       
-                      <img class = "centerPic1" src={compiler6}></img>
+                      <img class = "centerPic2" src={compiler6}></img>
                       
 <br></br><br></br>
                      
