@@ -186,7 +186,7 @@ export const Projects = () => {
                       <h2>Backend</h2>
                       <p>I created a fully functional compiler from scratch in Java, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
 
-                        <br></br> The Classy Compiler was designed to go through four stages: Lexical Analysis, Parsing, Semantic Analysis, and Code Generation.
+                        <br></br><br></br> The <u><strong>Classy Compiler</strong></u> was designed to go through four stages: Lexical Analysis, Parsing, Semantic Analysis, and Code Generation.
                         Below is a video demonstration.
                         </p>
                       <center>
@@ -201,31 +201,23 @@ export const Projects = () => {
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
                         </p>
                         <p>
-                        <span id="wrapper">
-                    
-      <img id="blurred" src={compiler9} alt="" />
-      <img id="cover" src={compiler9} alt="" />
-             
-                    </span>
+<img class = "centerPic1" src={compiler9}></img>
+                        
                     
 </p>
                     <p>
+                    <img class = "centerPic1" src={compiler8}></img>
 
-                        <h3 id="wrapper">
-                    
-      <img id="blurred" src={compiler8} alt="" />
-      <img id="cover" src={compiler8} alt="" />
-   
-                    </h3>
                     
 </p>
                     <p> <br></br>
                       <br></br>
 
-                      <img class = "centerPic1" src={compiler7}></img>
 
 This is the Operating System we used to run the code we generated.
 <br></br>
+
+<img class = "centerPic1" src={compiler7}></img>
                       
     
                          </p>
