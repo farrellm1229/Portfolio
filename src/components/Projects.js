@@ -11,6 +11,8 @@ import sonic6 from "../assets/img/sonic6.jpg";
 import sonic7 from "../assets/img/sonic7.jpg";
 
 import compiler from '../assets/videos/compiler.mp4'
+import os from '../assets/videos/os.mp4'
+
 
 import sonic5 from '../assets/videos/sonic5.mp4'
 import sleep from "../assets/img/sleepAnalysisWebsite.png";
@@ -210,15 +212,21 @@ export const Projects = () => {
 
                     
 </p>
-                    <p> <br></br>
-                     
+                    <p>
 
-This is the Operating System we used to run the code we generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
+This is the Operating System we used to run the code generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
 <br></br>
 <br></br>
 
-<img class = "centerPic1" src={compiler7}></img>
-                      
+</p>
+                      <center>
+                      <video class = "center" playsInline loop disablePictureInPicture autoPlay muted controls >
+                        
+                    <source src={os} type="video/mp4"/>
+                  </video>
+                  </center>
+
+<p>
     
                          </p>
                       
