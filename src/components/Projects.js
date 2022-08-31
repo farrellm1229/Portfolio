@@ -10,6 +10,7 @@ import sonic3 from "../assets/img/sonic1.jpg";
 import sonic6 from "../assets/img/sonic6.jpg";
 import sonic7 from "../assets/img/sonic7.jpg";
 
+import compiler from '../assets/videos/compiler.mp4'
 
 import sonic5 from '../assets/videos/sonic5.mp4'
 import sleep from "../assets/img/sleepAnalysisWebsite.png";
@@ -185,7 +186,7 @@ export const Projects = () => {
                       <h2>Backend</h2>
                       <p>I created a fully functional compiler from scratch in Java, that took in a modified version of the programming language "C" and output 6502 OpCodes. 
                         The code generated was then ran through an operating system, 
-                        and if the program passed all four stages of compilation, the OS would output the correct result.<br></br><br></br>
+                        and if the program passed all four stages, the OS would output the correct result.<br></br><br></br>
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
                       <img src={compiler9}></img><br></br><br></br>
                       <img src={compiler8}></img>
@@ -198,6 +199,16 @@ export const Projects = () => {
 <br></br><br></br>
                      
                       <img src={compiler7}></img>
+
+Above is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
+<br></br>
+                      <br></br>
+                      <center>
+                      <video playsInline loop disablePictureInPicture autoPlay muted controls >
+                        
+                    <source src={compiler} type="video/mp4"/>
+                  </video>
+                  </center>
 
 
                          </p>
