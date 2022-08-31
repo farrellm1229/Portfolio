@@ -180,7 +180,7 @@ export const Projects = () => {
                           <br></br>
                       <h2>What did I use to create this?</h2>
                         <br></br>
-                       I utilized <u><strong>PostgreSQL</strong></u> to store the user and account information securely, <u><strong>FLASK</strong></u> to create and navigate app routes, and <u><strong>Bootstrap</strong></u> to create the visually pleasing aesthetic I insisted on having!
+                       I utilized <u><strong>PostgreSQL</strong></u> to store the user and account information securely, <u><strong>Flask</strong></u> to create and navigate app routes, and <u><strong>Bootstrap</strong></u> to create the visually pleasing aesthetic I insisted on having!
                     </p>
 
                     </Tab.Pane>
