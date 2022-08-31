@@ -211,10 +211,10 @@ export const Projects = () => {
                     
 </p>
                     <p> <br></br>
-                      <br></br>
+                     
 
-
-This is the Operating System we used to run the code we generated.
+This is the Operating System we used to run the code we generated. If the input program passed all four stages with 0 errors, the OS would output the correct result!
+<br></br>
 <br></br>
 
 <img class = "centerPic1" src={compiler7}></img>
