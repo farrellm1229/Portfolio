@@ -188,8 +188,8 @@ export const Projects = () => {
                         The code generated was then ran through an operating system, 
                         and if the program passed all four stages, the OS would output the correct result.<br></br><br></br>
                         Here is the LL1 grammar this compiler was based around as well as a sample input program.
-                      <img class = "center" src={compiler9}></img><br></br><br></br>
-                      <img class = "center" src={compiler8}></img>
+                      <img class = "centerPic2" src={compiler9}></img><br></br><br></br>
+                      <img class = "centerPic2" src={compiler8}></img>
 
 <br></br>
                       After passing the Lexical Analysis, Parsing, and Semantic Analysis stages (as well as creating Abstract and Concrete Syntax Trees), the code is finally generated!
@@ -198,7 +198,7 @@ export const Projects = () => {
                       
 <br></br><br></br>
                      
-                      <img class = "center" src={compiler7}></img>
+                      <img class = "centerPic2" src={compiler7}></img>
 
 This is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
 <br></br>
