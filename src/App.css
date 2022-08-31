@@ -335,7 +335,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
  }
  .centerPic1{
   margin: 0 auto;
-  width: 400px;
+  width: 400%;
   height: auto;
   display: block;
  }
