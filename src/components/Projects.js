@@ -22,7 +22,7 @@ import compiler4 from "../assets/img/compiler4.png";
 import compiler5 from "../assets/img/compiler5.png";
 import compiler6 from "../assets/img/compiler6.png";
 import compiler7 from "../assets/img/compiler7.png";
-import compiler8 from "../assets/img/compiler8.png";
+import compiler8 from "../assets/img/compiler8.1.png";
 import compiler9 from "../assets/img/compiler9.png";
 
 
