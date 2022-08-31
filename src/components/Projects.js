@@ -208,11 +208,11 @@ export const Projects = () => {
 <br></br>
                       After passing the Lexical Analysis, Parsing, and Semantic Analysis stages (as well as creating Abstract and Concrete Syntax Trees), the code is finally generated!
                       
-                      <img class = "centerPic2" src={compiler6}></img>
+                      <img class = "centerPic1" src={compiler6}></img>
                       
 <br></br><br></br>
                      
-                      <img class = "centerPic2" src={compiler7}></img>
+                      <img class = "centerPic1" src={compiler7}></img>
 
 This is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
 <br></br>
