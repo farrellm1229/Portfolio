@@ -205,14 +205,14 @@ Above is the Operating System the generated code was ran through, and below is a
                       <br></br>
                       </p>
                       <center>
-                      <video playsInline loop disablePictureInPicture autoPlay muted controls >
+                      <video class = "center" playsInline loop disablePictureInPicture autoPlay muted controls >
                         
                     <source src={compiler} type="video/mp4"/>
                   </video>
                   </center>
 
 <p>
-  
+
                          </p>
                       
                     </Tab.Pane>
