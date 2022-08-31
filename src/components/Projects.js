@@ -200,9 +200,9 @@ export const Projects = () => {
                      
                       <img src={compiler7}></img>
 
-Above is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
+This is the Operating System the generated code was ran through, and below is a video showcasing the full program being compiled.
 <br></br>
-                      <br></br>
+                      
                       </p>
                       <center>
                       <video class = "center" playsInline loop disablePictureInPicture autoPlay muted controls >
